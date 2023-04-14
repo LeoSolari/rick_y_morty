@@ -1,0 +1,13 @@
+.SearchBar{
+    background-color: rgb(163, 163, 65);
+    padding: 1em;
+}
+
+.searchInput{
+    background-color: rgb(100, 131, 161);
+    padding: 1em;
+    border-radius: 20px;
+    border: none;
+    border-style: none;
+    outline: none;
+}
